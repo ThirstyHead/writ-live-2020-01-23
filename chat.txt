@@ -4,4 +4,22 @@ A (Scott): I am in VIOLENT agreement with you! Frameworks can be especially help
 
 Frameworks should not be the end of your journey as a web developer, but you can learn Oh So Much from learning deeply what your web framework is doing on your behalf, under the covers...
 
+====
+
+Q: Can someone please share the github link. It was read very fast and didnt get it :(
+
+A (Scott): Of course! You can view the slides at The Thousand Year Web:
+https://thethousandyearweb.com/examples/refactoring/
+
+You can download the source code yourself (browser-native HTML, CSS, and JS only) from GitHub:
+https://github.com/ThirstyHead/writ-live-2020-01-23
+https://github.com/ThirstyHead/ttyw.github.io
+https://github.com/ThirstyHead/refactoring-browsers
+
+(All code is Creative Commons licensed, so feel free to copy/modify/learn!!!)
+
+Many of my presentations can also be found at ThirstyHead:
+https://thirstyhead.com
+
+
 
