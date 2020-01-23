@@ -1,0 +1,7 @@
+Q: I think there can be more than one tool for thinking... a framework will promote certain ways of thinking and vanilla will promote other ways of thinking, the same way you experience a street differently on foot vs a car....
+
+A (Scott): I am in VIOLENT agreement with you! Frameworks can be especially helpful to get you started in your web development career. No one should feel ashamed of using a web frameworks. But in my keynote "The Wrong Kind of Fast", I liken web frameworks to boxed waffle mix. That is a great way to get started cooking waffles -- something that my young daughter and I did when she was in pre-school. But now that she is in middle school, we make waffles from scratch using a bespoke recipe that she and I have honed over the years of cooking together.
+
+Frameworks should not be the end of your journey as a web developer, but you can learn Oh So Much from learning deeply what your web framework is doing on your behalf, under the covers...
+
+
